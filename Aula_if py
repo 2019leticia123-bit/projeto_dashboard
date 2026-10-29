@@ -1,0 +1,7 @@
+nota= int(input("digite um numero:"))
+if nota >= 7:
+    print ("aprovado")
+elif nota >= 5:
+    print("reprovado")
+else:
+    print("reprovado")
